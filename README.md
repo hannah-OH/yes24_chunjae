@@ -1,5 +1,5 @@
 # yes24_chunjae
-# 파이프라인 개발
+## 파이프라인 개발
 
 * main.py
 * setting.py : DB setting과 관련된 정보. 보안상 문제로 삭제
